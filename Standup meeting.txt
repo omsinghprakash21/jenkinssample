@@ -1,0 +1,244 @@
+31/7/2018
+I have worked on volumne snapshot deletion 
+Work on docket having calendar end time issue  .
+Given access to users based on incident raised by monica today also we will do.
+
+
+.............................
+1/8/2018
+calendar end time , volume snapshots  deletion ,Site quota 
+
+provided access to users in site collection  incident raised by Monica.
+.........................................
+
+2/8/2018
+persistent link,
+Site quota 
+INC000029022596-subsite issue(following on the issue)
+provided access to users in site collection  incident raised by Monica.
+tommorow 
+Volume deletion
+:-
+Waiting for users feedback on calendar issue
+I am working on persistent link .
+
+
+
+.................
+3/8/2018
+yesterday 
+1. i  followed up with the user for calendar end time issue and user is satisfied with the view now.
+2. i worked on site quota 
+3. i have done volume snapshot deletion 
+ Today 
+ 1.I am working on persistent link issue
+ 2.I will work on Site quota 
+3.I will provide access to user based on incident raised by Monica.
+ 14/8/2018 /15/08/2018
+
+INC000029175572- site quota -EC556
+INC000029067820-HPEDMS-Persistent Link-EC104
+INC000029165833-HPEDMS-Search issue-EC494
+INC000029176131-HPEDMS-link issue-EC -566
+volum snapshot deltion -EC589,ec538
+..................
+in progress-Site Quota -INC000029153187-ec636,ec668
+Volume snapshot deletion-ec638
+today
+..................................................
+20/8/2018
+
+INC000029165833-HPEDMS-Search issue-EC494
+volume snapshot deletion -EC-750
+PVT-SfBCSA non prod--EC534
+..... 
+21/8/2018
+INC000029274475-HPEDMS-Site Quota Extension- EC792
+Volume Snapshot deletion-EC793
+23/8/2018
+yesterday i was on comp off
+24/8/2018
+site quota-ec928
+Followed- EC813-Access waiting for user reply
+ec-957-EDMS Fixed the persistent link
+.................................
+24/08/2018 
+EC-891-Library not assigning Telstra Id's when documents  are uploaded
+EC-399 - INC000029124015 HPEDMS - Unable to rename the folder- We followed up and got confirmation that the issue is resolved.
+Yesterday
+EC1011.-Healthcheck for project powder 
+EC1012-Volume snapshot deletion
+yesterday
+ec 813- Access issue -I  had conversation with user and  investigated the issue.yesterday
+............................................
+Yesterday
+
+.EC1053.-Healthcheck for project powder 
+ec 813- Access issue -  i  followed up to user
+......................................... 
+
+EC1091- Healthcheck for project powder 
+EC1080-Volume snapshot deletion
+EC1100 -site quota exetention docket
+ec 813- Permission Manager is not able to modify permission in few Library -Followed to user
+.....................................
+yesterday
+EC1124-Healthcheck for project powder
+EC1108- user doc was deleted and he asked us to restore .
+ec 813- Permission Manager is not able to modify permission in few Library 
+..........................
+friday
+EC-1171-Healthcheck for project powder 
+EC1132-Unable to Upload documents 
+EC1208-perform DB backup as part of EDMS Migration Project
+.............................................
+yesterday
+Sub-task - EC1222-Morning Health check EDMS.
+EC1183-Unable to Upload AND modify the document- i had screenshare session and investigated the issue
+ec1308  INC000029045323  Site Quota Extension-Lara-worked yesterday
+..............................................
+yesterday (5/9/2018)
+EC1298-Site Quota Extension-Gaston
+EC1183-Unable to Upload AND modify the document- i have followed to user and provided the solution .(checkout and upload)
+Today
+
+....................................................
+yesterday (6/9/2018)
+sub task-EC1368-Volume snapshot deletion
+EC1395-Investigated Persistent link issue
+EC1183-Unable to Upload AND modify the document-Screen share
+Today
+EC-1394-Site Quota Extension Request from Picone, Lara 
+EC1453-EDMS-Fetching DLUN Report as Monthly BAU Task
+
+Today i do not have  new blocker 
+ec1462
+
+EC-1535
+ec1526
+
+...................................
+yesterday
+EC1601 -Dupliacte telstra id
+EC1183- uPLOAD and modify issue
+EC1453 - DLUN REPORT AND MONTHLY DLUN TREND
+Today 
+EC1608 -site quota extension
+...............................
+yesterday
+EC 1640-MORNNING HEALTH CHECK
+EC1642-Volume snapshot deletion
+EC1641-SiteQuota -extension
+Today
+EC 1661-site quota 
+
+
+
+................
+Yesterday
+EC1633-EDMS-User facing access denial to one of Library while uploading the file-we had screen share with user and had refreshed the permission after that also user is having the same issue 
+EC-1739-EDMS- Document Not Found Issue - BLO-7989 - i have investigated the issue and send mail to user for library and doc detail- waiting for user reply
+Today
+EC1633-EDMS-User facing access denial to one of Library while uploading the file- I will investigate on the issue and will follow up to user
+EC-1753-Volume snapshot deletion
+
+
+............................
+yesterday
+EC1633-EDMS-User facing access denial to one of Library while uploading the file-i have provided the solution
+Sub-task EC-1753-Volume snapshot deletion
+EC-1739-EDMS- Document Not Found Issue - BLO-7989
+Today
+EC1633-EDMS-User facing access denial to one of Library while uploading the file-Waiting for reply.
+EC-1807 -EDMS- Unable to move the documents
+
+
+
+Yesterday
+EC-2004-Site Loading issue 
+EC2017-Site Quota extension
+Today 
+EC2030-Volume snapshot deletion
+
+A part from this i do not have any new blocker.
+
+
+Yesterday 
+EC2030-Volume snapshot deletion
+EC-2044-USM has lost contact with the agent on server wsweb0576v01- waiting for post pvt .
+EC-1807-Unable to move the documents -I had investiagtion on the issue ,
+ I tried single move as well as bulk move but was unable to see all column data to the new location.
+Today , i will investigate further on the issue.
+Today
+EC-2043-Persisstent Link issue - i will work on it.
+we got one site quota extension request i will be creating story and work on it 
+
+
+Yesterday 
+
+EC-2257-SfBCSA Health check
+EC-2260-EDMS Morning Health check
+EC-2258-Site Quota Extension
+Waiting
+EC-2139- unable to move the document-User on leave for 2 day -friday-issue resolved
+Today
+EC-2296-SfBCSA Health check
+EC-2295-Volume snapshot deletion
+EC-2298-Can not update the files after local editing and uploading.
+
+
+on friday
+EC-1807- Unable to move documents
+EC-2305-Volume snapshot deletion
+ec-2304-SfBCSA Health check
+in waiting
+EC-2298-EDMS-Can not update the files after local editing and uploading.-Waiting for user response
+Today
+EC-2335-Site Loading issue
+EC-2338-Volume snapshot deletion-
+
+...
+yesterday
+
+EC-2356-EDMS : [CRQ000003930347] : Windows Prod - CSM Initiated Critical Security Patching
+EC-2343-Site quota Extension
+Ec-2344-Site quota Extension-user had asked for 2GB , we got approval to to extend.
+Ec-233
+
+.........
+Yesterday
+EC-2363-Volume snapshot deletion
+EC-2344-Two site quota extenstion
+EC-2375-Change production
+
+7 -on call
+............
+ec2613-
+ec2614-
+EC2592-
+EC2499-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

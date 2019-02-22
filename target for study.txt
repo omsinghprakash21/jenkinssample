@@ -1,0 +1,16 @@
+1. Experience inSharePoint 2013/2016 development / O365 Development
+2. Experience onSharePoint CSOM and knowledge on web technologies like JSOM, JQuery, HTML &CSS must
+
+3. Experience onSharePoint list templates, site columns, content types, REST API
+
+4. Experience inSharePoint design & Workflow customization with SharePoint Designer (Must)
+
+5. Experience on AngularJS  & NodeJS - Good to have
+
+6. Knowledge onSharePoint Apps model
+
+7. Good communicationskills and experience in interacting with customers
+
+8. Knowledge in Azure
+
+9. Experience in SharePoint on-prem to SharePoint online Migrations
